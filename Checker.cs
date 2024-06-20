@@ -1,6 +1,6 @@
 using System;
 
-namepace ParadigmShift{
+namepace paradigm_shift_in_cs{
 
   class Program{
     static void Main(){
