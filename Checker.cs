@@ -1,10 +1,13 @@
 using System;
 
-namepace paradigm_shift_in_cs{
+namespace paradigm_shift_in_cs
+{
 
-  class Program{
-    static void Main(){
+  class Program
+  {
+    static void Main()
+    {
       Console.WriteLine("Hello");
+    }
   }
-}
 }
